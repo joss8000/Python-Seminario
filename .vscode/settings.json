@@ -1,4 +1,6 @@
 {
     "git.allowForcePush": true,
-    "githubIssues.alwaysPromptForNewIssueRepo": true
+    "githubIssues.alwaysPromptForNewIssueRepo": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
