@@ -20,3 +20,19 @@ cadena=input("Ingresar un caracter:")
 print(f"lo ingresado es: {cadena}")
 cadena2=int(input("Version?: "))
 print(f"la version es: {cadena2}")
+n1=90
+n2=9.99
+print("suma de valores: "n1+n2)
+x=90
+resultado=x-n1
+print("resta de valores: "resultado)
+
+numero=int(input("Ingrese un número: "))
+if numero>0:
+    print("El número es positivo.")
+elif numero<0:
+    print("El número es negativo.")
+else:
+    print("El número es cero.")
+
+print("Fin del programa")
