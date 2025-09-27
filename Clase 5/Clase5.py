@@ -9,6 +9,7 @@ print(sumar(99,10))
 
 n=0
 while n<10:
-    print(n+c)
-    c+=1
+
+    print(c)
+    c+=n
     n+=1
